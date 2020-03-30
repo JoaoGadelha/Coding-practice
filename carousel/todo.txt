@@ -1,0 +1,2 @@
+-turn website responsive
+-mobile: center figures automatically
