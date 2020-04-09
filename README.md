@@ -1,4 +1,4 @@
-# codes
+# Coding practice
 Small projects and examples
 
 ### hoverZoom
